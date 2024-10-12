@@ -18,7 +18,7 @@ In the project directory, you can run:
 
 ### `npm start`
 Runs the app in the development mode.\
-Open [http://localhost:8500](http://localhost:8500) to view it in your browser.
+Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -40,7 +40,7 @@ You may also see any lint errors in the console.
 
 ## 🔗 Links
 
-> ## Checkout the Website Link : https://nodejs-auth-project-4840.onrender.com/
+> ## Checkout the Youtube Video  https://youtu.be/kFTOO2aabW0
 
 
 <br/>
@@ -49,25 +49,19 @@ You may also see any lint errors in the console.
 ## 💻 Screens
 
 
+### Sign up
+![signup](https://user-images.githubusercontent.com/102378038/199895773-c19de43c-9fc3-4446-ae36-e93c095330d1.png)
 
-### Register User
-
-![Screenshot (298)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/6dfe1736-e1c0-470b-b41a-5d46b087ce4e)
-
-
-
-### Login User
-
-![Screenshot (299)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/26b4b14f-5ac6-4c49-b9ae-88636971addf)
+### Sign In
 
 
-### Reset Password User 
+![signin](https://user-images.githubusercontent.com/102378038/199895895-d1fca464-3734-4a54-ab08-d8bbbbd9af65.png)
 
-![Screenshot (300)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/6fde7922-2518-47dc-97d3-494c6247fd42)
+### Reset Password 
 
-### Logout User
+![reset_password](https://user-images.githubusercontent.com/102378038/199895937-d2677488-4be3-4f53-bfbb-63f6b201caa1.png)
 
 
-![Screenshot (301)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/124c7d27-eee8-4701-a02d-df1c1e5e7a14)
+
 
 
